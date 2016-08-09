@@ -18,6 +18,9 @@ organized? How would branches help?
 	have along with it git branch comes in handy.
 
 How do the diagrams help you visualize the branch structure?
+	Diagrams help to visualize the branch structures. They also provide info
+	about which commits are reachable from which branch and also info about
+	unreachable commits.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
